@@ -26,6 +26,7 @@ For conveniency create a directory with following hierarchy:
   -create_endodings.py
   -datasetgather.py
   -main.py
+(view this hierarchy in raw form)
   
 Firstly, put the video of the perso need to be detected inside the "videos" folder. This video should contain only the face of the person.
 Store the video with the name of the person as file name. For example if name of the person is "xyz", then store the video xyz.mp4 in the
