@@ -41,4 +41,4 @@ belongs to which person). The encodings and labels pickle file are then stored i
 
 Finally, when we execute the main.py file, it will load the stored encodings and labels. It will take the live feeds from the CCTVs, and
 recognizes the person present. This data is then dumped in the database. Here, we have also used the parallel processing for each camera 
-feed, this helps in better performance.
+feed, this helps to gain better performance.
